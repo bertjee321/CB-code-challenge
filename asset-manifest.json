@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1eb13d17.css",
-    "main.js": "/static/js/main.6f080797.js",
-    "static/media/auto.jpg": "/static/media/auto.eedb0e35b389c344fdfe.jpg",
-    "static/media/motor.jpg": "/static/media/motor.761006ff6fe334ded9af.jpg",
-    "static/media/scooter.jpg": "/static/media/scooter.18fee8e005242546e910.jpg",
-    "static/media/centraalbeheer.png": "/static/media/centraalbeheer.c42f69178c75db6b143d.png",
-    "index.html": "/index.html",
-    "main.1eb13d17.css.map": "/static/css/main.1eb13d17.css.map",
-    "main.6f080797.js.map": "/static/js/main.6f080797.js.map"
+    "main.css": "/CB-code-challenge/static/css/main.1eb13d17.css",
+    "main.js": "/CB-code-challenge/static/js/main.88b3a21f.js",
+    "static/media/auto.jpg": "/CB-code-challenge/static/media/auto.eedb0e35b389c344fdfe.jpg",
+    "static/media/motor.jpg": "/CB-code-challenge/static/media/motor.761006ff6fe334ded9af.jpg",
+    "static/media/scooter.jpg": "/CB-code-challenge/static/media/scooter.18fee8e005242546e910.jpg",
+    "static/media/centraalbeheer.png": "/CB-code-challenge/static/media/centraalbeheer.c42f69178c75db6b143d.png",
+    "index.html": "/CB-code-challenge/index.html",
+    "main.1eb13d17.css.map": "/CB-code-challenge/static/css/main.1eb13d17.css.map",
+    "main.88b3a21f.js.map": "/CB-code-challenge/static/js/main.88b3a21f.js.map"
   },
   "entrypoints": [
     "static/css/main.1eb13d17.css",
-    "static/js/main.6f080797.js"
+    "static/js/main.88b3a21f.js"
   ]
 }
