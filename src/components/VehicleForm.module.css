@@ -1,0 +1,87 @@
+h2 {
+  margin: 0.5rem;
+  color: rgb(62, 178, 250);
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 350px;
+}
+
+.form {
+  flex: 1;
+  text-align: left;
+}
+
+.control {
+  margin: 0.5rem;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+
+.control label,
+.control input {
+  display: block;
+}
+
+.control label {
+  font-size: 13px;
+  color: black;
+  padding: 0.2rem 0.2rem;
+  text-align: left;
+}
+
+.control input,
+.control select {
+  font: inherit;
+  font-size: 13px;
+  padding: 0.2rem 0.2rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: rgb(0, 0, 0, 0.05);
+}
+
+.error {
+  font-size: 13px;
+  background-color: rgb(255, 0, 0, 0.1);
+  color: red;
+  padding: 0.2rem;
+  margin-top: 5px;
+  text-align: left;
+  border: 1px solid red;
+  border-radius: 6px;
+}
+
+.warning {
+    margin: 0;
+    color: red;
+}
+
+.actions {
+  margin: 0.5rem;
+  text-align: left;
+}
+
+.actions button {
+  margin: 0 0.5rem 0.5rem 0;
+}
+
+.image {
+  padding: 10px;
+  flex: 1;
+}
+
+.image img {
+  width: 100%;
+  
+  border-radius: 6px;
+}
+
+@media (max-width: 860px) {
+  .container {
+    flex-direction: column;
+  }
+}
